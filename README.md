@@ -1,4 +1,4 @@
-# CCOBJPGL-PY
+# 💫 CCOBJPGL-PY  
 CCOBJPGL-PY - Object-Oriented Programming in Python
 
 This repository contains all of the java code implementations of each topic in the course outline for object oriented programming.
@@ -8,10 +8,10 @@ This repository contains all of the java code implementations of each topic in t
 
 | Folder Name | Topic |
 |-------------|-------|
-| week_1-2 | Review of OOP Basics (Encapsulation, Inheritance, Polymorphism) |
+| week_1-2 | Review of OOP Basics (Encapsulation, Inheritance, Polymorphism) | 
 | week_3 | Forms of Inheritance |
 | week_4 | Programming by Contract |
-| week_5 | Subtyping versus Subclassing |
+| week_5 | Subtyping versus Subclassing | 
 | week_6 | Double dispatch |
 | week_7 | Multiple Inheritance |
 | week_8-9 | Formal Models of OOP System (Unified modeling language and formal specification languages) |
@@ -34,11 +34,11 @@ This repository contains all of the Java code implementations for each topic cov
 - [FAQ](#faq)
 - [Changelog](#changelog)
 
-## Introduction
+# 🔭 Introduction
 
-This repository contains all of the java code implementations of each topic in the course outline for object oriented programming.
+This repository contains all of the python code implementations of each topic in the course outline for object oriented programming.
 
-## Lesson
+# 💻 Lesson 
 
 ### Lesson: Review of OOP Basics (Encapsulation, Inheritance, Polymorphism)
 In this lesson, review the fundamental concepts of object-oriented programming, including encapsulation, inheritance, and polymorphism. Explain how these concepts are used to create modular and reusable code.
@@ -64,7 +64,7 @@ In this lesson, introduce formal models of object-oriented programming systems, 
 ### Lesson: Design Patterns (Creational, Structural, Behavioral, Model-View-Controller)
 In this lesson, discuss the concept of design patterns and their importance in object-oriented programming. Introduce different categories of design patterns, including creational, structural, behavioral, and the Model-View-Controller (MVC) pattern. Explain the characteristics and usage of each pattern and provide examples to illustrate their implementation in Python.
 
-# Exercise
+# ✍️ Exercise
 
 ```bash
 Coming Soon
