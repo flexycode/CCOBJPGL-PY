@@ -66,7 +66,7 @@ In this lesson, discuss the concept of design patterns and their importance in o
 
 # ✍️ Exercise
 
-```bash
+```bash 
 Coming Soon
 ```
 
@@ -82,7 +82,9 @@ Coming Soon
 
 # 🕵️ Acknowledgements  
 
-Give credit to any individuals or resources that have contributed to the development of the course or provided inspiration.
+```bash
+Coming Soon
+```
 
 # 💬 FAQ  
 
