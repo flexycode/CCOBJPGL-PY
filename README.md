@@ -88,5 +88,23 @@ Give credit to any individuals or resources that have contributed to the develop
 
 Provide answers to frequently asked questions related to the course.
 
-# 📫 Changelog 
+# 📫 Changelog
+        
+## [5.1.4] - 2024-05-2        
+### Added 
+- ✨ Uploaded the Course Syllabus
+- ✨ Added breakdown and documentation
 
+### Changed
+- ✨ revised icon
+
+### Fixed  
+- ✨ Revised my documentaion
+
+## [4.1.4] - 2024-05-04  
+- ✨ Coming Soon 
+- ✨ Coming Soon
+- ✨ Coming Soon
+
+
+#### [Back to Table of Content](#introduction)    
