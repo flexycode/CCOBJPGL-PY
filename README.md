@@ -72,7 +72,9 @@ Coming Soon
 
 # 🏆 Contributing  
 
-Explain how others can contribute to the repository, such as submitting bug reports, suggesting improvements, or adding new code examples.
+```bash
+Coming Soon
+```
 
 # 🔐 License 
 
