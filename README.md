@@ -76,15 +76,17 @@ Explain how others can contribute to the repository, such as submitting bug repo
 
 # 🔐 License 
 
-Specify the license under which the repository is shared.
+```bash
+Coming Soon
+```
 
 # 🕵️ Acknowledgements  
 
 Give credit to any individuals or resources that have contributed to the development of the course or provided inspiration.
 
-# FAQ 
+# 💬 FAQ  
 
 Provide answers to frequently asked questions related to the course.
 
-# Changelog
+# 📫 Changelog 
 
