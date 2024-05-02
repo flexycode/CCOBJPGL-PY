@@ -70,15 +70,15 @@ In this lesson, discuss the concept of design patterns and their importance in o
 Coming Soon
 ```
 
-# Contributing 
+# 🏆 Contributing  
 
 Explain how others can contribute to the repository, such as submitting bug reports, suggesting improvements, or adding new code examples.
 
-# License 
+# 🔐 License 
 
 Specify the license under which the repository is shared.
 
-# Acknowledgements 
+# 🕵️ Acknowledgements  
 
 Give credit to any individuals or resources that have contributed to the development of the course or provided inspiration.
 
