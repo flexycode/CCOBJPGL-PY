@@ -87,9 +87,11 @@ Coming Soon
 ```
 
 # 💬 FAQ  
-
 Provide answers to frequently asked questions related to the course.
 
+```bash
+Coming Soon
+```
 # 📫 Changelog
         
 ## [5.1.4] - 2024-05-2        
