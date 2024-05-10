@@ -110,6 +110,7 @@ Coming Soon
 ## [4.1.4] - 2024-05-04  
 - ✨ Coming Soon 
 - ✨ Coming Soon
+- ✨ Coming Soon 
 - ✨ Coming Soon
 
 
