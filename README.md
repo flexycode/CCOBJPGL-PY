@@ -1,7 +1,7 @@
 # 💫 CCOBJPGL-PY  
 CCOBJPGL-PY - Object-Oriented Programming in Python
 
-This repository contains all of the java code implementations of each topic in the course outline for object oriented programming.
+This repository contains all of the python code implementations of each topic in the course outline for object oriented programming.
 
 ## Table
 
@@ -21,7 +21,7 @@ This repository contains all of the java code implementations of each topic in t
 
 # Object-Oriented Programming in Python
 
-This repository contains all of the Java code implementations for each topic covered in the course outline for Object-Oriented Programming.
+This repository contains all of the Python code implementations for each topic covered in the course outline for Object-Oriented Programming.
 
 ## Table of Contents
 
