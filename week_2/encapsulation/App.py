@@ -1,15 +1,9 @@
-public class App {
-    public static void main(String[] args) throws Exception {
+from Person import Person
 
-        Person Me = new Person();
+def main():
+    me = Person()
 
-        // The name property cannot be accessed outside of the Person class.
-        // Me.name;
+    # The name property cannot be accessed directly from outside the class.
+    # me.__name
 
-        Me.setName("Elizer");
-
-        String myName = Me.getName();
-
-        System.out.println("My name is " + myName);
-    }
-}
+    me.set_name("Jay")
