@@ -107,11 +107,15 @@ Coming Soon
 ### Fixed  
 - ✨ Revised my documentaion
 
-## [4.1.4] - 2024-05-25  
+## [4.1.3] - 2024-05-21  
 - ✨ Added week 1 : Object and Classes
 - ✨ Added class with constructor
-- ✨ Coming Soon 
-- ✨ Coming Soon
+- ✨ Added standard class
 
+## [4.1.4] - 2024-05-28  
+- ✨ Added week 2 : Encapsulation, Inheritance, Polymorphism
+- ✨ Added class with constructor
+- ✨ Added standard class
+- ✨ Coming Soon
 
 #### [Back to Table of Content](#introduction)    
