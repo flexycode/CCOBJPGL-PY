@@ -108,7 +108,7 @@ Coming Soon
 - ✨ Revised my documentaion
 
 ## [4.1.4] - 2024-05-04  
-- ✨ Coming Soon 
+- ✨ Added week 1 : Object and Classes
 - ✨ Coming Soon
 - ✨ Coming Soon 
 - ✨ Coming Soon
