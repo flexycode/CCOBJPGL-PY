@@ -107,9 +107,9 @@ Coming Soon
 ### Fixed  
 - ✨ Revised my documentaion
 
-## [4.1.4] - 2024-05-04  
+## [4.1.4] - 2024-05-25  
 - ✨ Added week 1 : Object and Classes
-- ✨ Coming Soon
+- ✨ Added class with constructor
 - ✨ Coming Soon 
 - ✨ Coming Soon
 
