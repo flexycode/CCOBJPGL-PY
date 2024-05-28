@@ -114,8 +114,8 @@ Coming Soon
 
 ## [4.1.4] - 2024-05-28  
 - ✨ Added week 2 : Encapsulation, Inheritance, Polymorphism
-- ✨ Added Encapsulation with example
-- ✨ Added standard class
-- ✨ Coming Soon
+- ✨ Added Encapsulation with example code
+- ✨ Added Ihheritance with example code
+- ✨ Added Polymorphism with example code
 
 #### [Back to Table of Content](#introduction)    
