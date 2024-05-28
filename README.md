@@ -94,9 +94,9 @@ Provide answers to frequently asked questions related to the course.
 ```bash
 Coming Soon
 ```
-# 📫 Changelog
+# 📫 Changelog 
         
-## [5.1.4] - 2024-05-2        
+## 💻 [5.1.4] - 2024-05-2        
 ### Added 
 - ✨ Uploaded the Course Syllabus
 - ✨ Added breakdown and documentation
@@ -107,15 +107,21 @@ Coming Soon
 ### Fixed  
 - ✨ Revised my documentaion
 
-## [4.1.3] - 2024-05-21  
+## 💻 [5.1.3] - 2024-05-21  
 - ✨ Added week 1 : Object and Classes
 - ✨ Added class with constructor
 - ✨ Added standard class
 
-## [4.1.4] - 2024-05-28  
+## 💻 [5.1.4] - 2024-05-28  
 - ✨ Added week 2 : Encapsulation, Inheritance, Polymorphism
 - ✨ Added Encapsulation with example code
 - ✨ Added Ihheritance with example code
 - ✨ Added Polymorphism with example code
+
+## 💻 [5.1.4] - 2024-06-04
+- ✨ Coming Soon
+- ✨ Coming Soon
+- ✨ Coming Soon
+- ✨ Coming Soon
 
 #### [Back to Table of Content](#introduction)    
