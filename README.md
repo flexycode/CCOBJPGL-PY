@@ -118,10 +118,13 @@ Coming Soon
 - ✨ Added Ihheritance with example code
 - ✨ Added Polymorphism with example code
 
-## 💻 [5.1.4] - 2024-06-04   
+## 💻 [6.1.4] - 2024-06-04   
 - ✨ Added week 3 : Forms of Inheritance
 - ✨ Coming Soon
 - ✨ Coming Soon
+- ✨ Coming Soon
+
+## 💻 [7.1.4] - 2024-07-05
 - ✨ Coming Soon
 
 #### [Back to Table of Content](#introduction)    
