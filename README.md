@@ -122,7 +122,6 @@ Coming Soon
 - ✨ Added week 3 : Forms of Inheritance
 - ✨ Coming Soon
 - ✨ Coming Soon
-- ✨ Coming Soon
 
 ## 💻 [7.1.4] - 2024-07-05
 - ✨ Coming Soon
