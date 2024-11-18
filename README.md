@@ -120,10 +120,11 @@ Coming Soon
 
 ## 💻 [6.1.4] - 2024-06-04   
 - ✨ Added week 3 : Forms of Inheritance
-- ✨ Coming Soon
-- ✨ Coming Soon
 
 ## 💻 [7.1.4] - 2024-07-05
+- ✨ Coming Soon
+
+## 💻 [11.1.1] - 2024-11-19
 - ✨ Coming Soon
 
 🧊 Python OOP
