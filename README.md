@@ -125,7 +125,7 @@ Coming Soon
 - ✨ Coming Soon
 
 ## 💻 [11.1.1] - 2024-11-19
-- ✨ Coming Soon
+- ✨ Add Licence
 
 🧊 Python OOP
 
