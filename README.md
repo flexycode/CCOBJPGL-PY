@@ -64,11 +64,13 @@ In this lesson, introduce formal models of object-oriented programming systems, 
 ### Lesson: Design Patterns (Creational, Structural, Behavioral, Model-View-Controller)
 In this lesson, discuss the concept of design patterns and their importance in object-oriented programming. Introduce different categories of design patterns, including creational, structural, behavioral, and the Model-View-Controller (MVC) pattern. Explain the characteristics and usage of each pattern and provide examples to illustrate their implementation in Python.
 
+<!--
 # ✍️ Exercise
 
 ```bash 
 Coming Soon
 ```
+-->
 
 # 🏆 Contributing  
 
