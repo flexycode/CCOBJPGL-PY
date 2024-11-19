@@ -122,7 +122,7 @@ Coming Soon
 - ✨ Added week 3 : Forms of Inheritance
 
 ## 💻 [7.1.4] - 2024-07-05
-- ✨ Coming Soon
+- ✨ Added week 4 
 
 ## 💻 [11.1.1] - 2024-11-19
 - ✨ Add Licence
