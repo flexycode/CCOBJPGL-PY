@@ -129,6 +129,9 @@ Coming Soon
 ## 💻 [11.1.1] - 2024-11-19
 - ✨ Add Licence
 
+## 💻 [11.1.1] - 2024-12-25
+- ✨ Coming Soon
+  
 🧊 Python OOP
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
