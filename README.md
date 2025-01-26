@@ -1,3 +1,6 @@
+<!-- Background github cover with short introduction down below -->
+<img src="https://github.com/flexycode/CCOBJPGL-PY/blob/main/assets/Python.webp" />
+
 # 💫 CCOBJPGL-PY  
 CCOBJPGL-PY - Object-Oriented Programming in Python
 
