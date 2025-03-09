@@ -139,6 +139,9 @@ Coming Soon
 - ✨ Added Synchronous + Asynchronous topic for Framework
 - ✨ Added Framework lesson ( Django, FastAPI, Flask )
 
+## 💻 [12.1.1] - 2025-03-09
+- ✨ Patch Update 
+
 🧊 Python OOP
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
